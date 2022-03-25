@@ -1,0 +1,33 @@
+.container
+{
+   border: 1px solid orange;
+}
+
+.alphabet
+{
+   margin: 0;
+}
+
+.alphabet p
+{
+   font-size: 15em;
+   border: 1px solid black;
+   text-align: center;
+}
+
+.buttons
+{
+   margin-top: 0;
+}
+
+.button
+{
+   color: green;
+   background-color: aqua;   
+   font-size: 3em;
+   width:20%;
+   margin-left: 20px;
+   border: 2px solid black;
+   text-align: center;
+   float: right;
+}
